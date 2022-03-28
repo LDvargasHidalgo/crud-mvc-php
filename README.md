@@ -15,11 +15,11 @@ Nos encontramos en una empresa de desarrollo y necesitamos una aplicación que p
 
 
 <h1> 🖥 Requerimientos técnicos </h1>
-- 🌐 Requisitos Funcionales:
-    La aplicación constará de al menos 3 páginas <br/>
-    Una página para la lista con todas las citas previstas. <br/>
-    Una página con un formulario para crear una nueva cita.  <br/>
-    Una página para editar una cita concreta. <br/>
+- 🌐 Requisitos Funcionales: <br/>
+   - La aplicación constará de al menos 3 páginas <br/>
+        Una página para la lista con todas las citas previstas. <br/>
+        Una página con un formulario para crear una nueva cita.  <br/>
+        Una página para editar una cita concreta. <br/>
 - 🌐 Páginas:
 
   Lista: Las citas beben aparecer por orden de creación con:
