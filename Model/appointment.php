@@ -58,5 +58,14 @@ class appointment{
          die($e->getMessage());
       }
    }
+
+   public function actualizarDatos($data){
+      try{
+         $query = "UPDATE  cita  set nombre=?, tema=?, fecha_cita=?, hora_cita=? WHERE id=?";
+         $this->CNX->prepare($query)->execute(array($data->nombre,$data->tema,$data->fecha_cita,$data->hora_cita));
+      }catch(exception $e){
+         die($e->getMessage());
+      }
+   }
 }
 ?>

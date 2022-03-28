@@ -17,6 +17,7 @@
   <form action="?c=guardar" class="contain" method="post">
      <h2 class="text-center pb-4">NUEVA CITA</h2>
      <div class="form-group">
+        
         <label for="">Nombre:</label>
         <input type="hidden" name="txtID" value="<?php echo $alm->id;?>">
         <input type="text" name="txtNombre"  placeholder="Escribe tu nombre" class="form-control mb-4" value="<?php echo $alm->nombre;?>" required >
@@ -34,7 +35,7 @@
       <input type="time" name="txtHora" class="form-control" value="<?php echo $alm->hora_cita;?>" required>
    </div>
    <div class="text-end">
-      <a href="http://localhost/crud-citas-poo-mvc/index.php"><button class="btn btn-warning mt-4  ">Ver Citas</button></a>
+      <button class="btn btn-warning mt-4  ">Ver Citas</button>
       <button class="btn btn-dark mt-4 " name="save" type="submit" >Guardar</button>
     <!--   <input type="submit" name="save" value="guardar" class="btn btn-dark">     -->
    </div>
