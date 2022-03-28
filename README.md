@@ -33,7 +33,7 @@ Páginas:
         Botón para borrar los campos. <br/>
         Botón para cancelar y volver a la lista principal <br/>
         Botón para enviar la información <br/>
-- 🌐 Editar cita:
+- 🌐 Editar cita: <br/>
       Formulario con los campos necesarios obligatorios. <br/>
       Los campos deben tener la información de la cita a editar <br/>
       Boton cancelar, Botón de enviar <br/>
