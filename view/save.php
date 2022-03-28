@@ -34,7 +34,7 @@
       <input type="time" name="txtHora" class="form-control" value="<?php echo $alm->hora_cita;?>" required>
    </div>
    <div class="text-end">
-      <button class="btn btn-warning mt-4  ">Ver Citas</button>
+      <a href="http://localhost/crud-citas-poo-mvc/index.php"><button class="btn btn-warning mt-4  ">Ver Citas</button></a>
       <button class="btn btn-dark mt-4 " name="save" type="submit" >Guardar</button>
     <!--   <input type="submit" name="save" value="guardar" class="btn btn-dark">     -->
    </div>
