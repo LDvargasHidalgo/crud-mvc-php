@@ -1,0 +1,11 @@
+.container-form{
+   border: 2px solid rgb(211, 211, 202);
+   width: 40%;
+   margin-top: 2%;
+   border-radius: 2%;
+}
+.cursor{
+   cursor: pointer;
+}
+
+
