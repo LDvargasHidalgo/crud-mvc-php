@@ -3,7 +3,7 @@ include_once 'Model/appointment.php';
 class control{
 
    public $MODEL;
-// creo un constructor para que se    carge la instancia de ese modelo
+// creo un constructor para que se  carge la instancia de ese modelo.
 public function __construct(){
    $this->MODEL = new appointment();
 }
