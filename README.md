@@ -15,24 +15,24 @@ Nos encontramos en una empresa de desarrollo y necesitamos una aplicación que p
 
 
 <h1> 🖥 Requerimientos técnicos </h1>
-Requisitos Funcionales: <br/>
+- Requisitos Funcionales: <br/>
    🌐La aplicación constará de al menos 3 páginas <br/>
-        Una página para la lista con todas las citas previstas. <br/>
-        Una página con un formulario para crear una nueva cita.  <br/>
-        Una página para editar una cita concreta. <br/>
+           Una página para la lista con todas las citas previstas. <br/>
+           Una página con un formulario para crear una nueva cita.  <br/>
+           Una página para editar una cita concreta. <br/>
 Páginas:
 
   🌐 Lista: Las citas beben aparecer por orden de creación con:
-        El nombre del coder o del equipo. <br/>
-        El tema de consulta. <br/>
-        Fecha y hora de la creación de la cita <br/>
-        Las citas se podrán eliminar. <br/>
-        Podremos acceder a la edición de cada cita, y a la página de creación de una cita nueva. <br/>
-        Crear nueva cita:<br/>
-        Formulario con los campos necesarios obligatorios <br/>
-        Botón para borrar los campos. <br/>
-        Botón para cancelar y volver a la lista principal <br/>
-        Botón para enviar la información <br/>
+           El nombre del coder o del equipo. <br/>
+           El tema de consulta. <br/>
+           Fecha y hora de la creación de la cita <br/>
+           Las citas se podrán eliminar. <br/>
+           Podremos acceder a la edición de cada cita, y a la página de creación de una cita nueva. <br/>
+           Crear nueva cita:<br/>
+           Formulario con los campos necesarios obligatorios <br/>
+           Botón para borrar los campos. <br/>
+           Botón para cancelar y volver a la lista principal <br/>
+           Botón para enviar la información <br/>
 - 🌐 Editar cita: <br/>
       Formulario con los campos necesarios obligatorios. <br/>
       Los campos deben tener la información de la cita a editar <br/>
