@@ -33,7 +33,8 @@ public function nuevo(){
    }
 
    
-//funcion Eliminar
+
+//Delete function
 public function eliminar(){
    $this->MODEL->delete($_REQUEST['id']);
 
