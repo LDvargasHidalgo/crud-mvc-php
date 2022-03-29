@@ -51,5 +51,6 @@ La aplicación deberá ser responsiva. <br/>
 <h1> Deploy page <h1>
    http://appointment-dev.freecluster.eu/crud-citas-poo-mvc/ <br/>
 
-   https://drive.google.com/drive/folders/1G6xkWoDz6b6DXwcoEt15DXnGSoP2WFp3
+   
+   ![tabla-citas](https://drive.google.com/drive/folders/1G6xkWoDz6b6DXwcoEt15DXnGSoP2WFp3)
   
