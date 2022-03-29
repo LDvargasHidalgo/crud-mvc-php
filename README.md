@@ -11,7 +11,7 @@ Desarrollar una aplicación "CRUD" Web en PHP que permita pedir cita a los desar
 📚<h1>Contexto del proyecto</h1>
 Nos encontramos en una empresa de desarrollo y necesitamos una aplicación que permita pedir cita al CTO para resolver problemas técnicos de los equipos de desarrollo.
 <h3>🛠 Tech Stack </h3>
-- 🌐 &nbsp; HTML5 | CSS3 | PHP | BOOTSTRAP
+- 🌐 &nbsp; HTML5 | CSS3 | PHP | BOOTSTRAP | MYSQL
 
 
 <h1> 🖥 Requerimientos técnicos </h1>
