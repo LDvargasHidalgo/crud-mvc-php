@@ -54,7 +54,8 @@ La aplicación deberá ser responsiva. <br/>
    
    
    ![formulario-citas](https://user-images.githubusercontent.com/78703403/160642528-0a84f509-0d45-4b6a-b7f5-f476e9b4f152.png)
-   ![Captura de pantalla 2022-03-29 112219](https://user-images.githubusercontent.com/78703403/160659384-6785d5af-1057-4e0a-9475-aaeafdceae79.png)
+    ![Captura de pantalla 2022-03-29 112908](https://user-images.githubusercontent.com/78703403/160660700-3370763a-e510-4322-a4bb-97d554bded07.png)
+
 
    
 
