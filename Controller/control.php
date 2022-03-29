@@ -32,7 +32,7 @@ public function nuevo(){
       $alm->id > 0 ? $this->MODEL->actualizarDatos($alm) : $this->MODEL->registrar($alm);
 
       //invocar la funcion registrar que recibe de parametro alm
-     /*  $this->MODEL-> registrar($alm); */
+     /*  $this->MODEL-> registrar($alm); */.
       header("Location: index.php");
    }
 
