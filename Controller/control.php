@@ -31,7 +31,7 @@ public function nuevo(){
 //si viene el id que actualice si no viene que inserte
       $alm->id > 0 ? $this->MODEL->actualizarDatos($alm) : $this->MODEL->registrar($alm);
 
-      //invocar la funcion registrar que recibe de parametro alm
+      //invocar la funcion registrar que recibe de parametro alm.
      /*  $this->MODEL-> registrar($alm); */.
       header("Location: index.php");
    }
