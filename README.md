@@ -51,5 +51,5 @@ La aplicación deberá ser responsiva. <br/>
 <h1> Deploy page <h1>
    http://appointment-dev.freecluster.eu/crud-citas-poo-mvc/
    https:/
-<img src="https://drive.google.com/drive/folders/1G6xkWoDz6b6DXwcoEt15DXnGSoP2WFp3" min-width="400px" max-width="400px" width="400px" align="right" alt="horario">
+<img src="https://drive.google.com/drive/folders/1G6xkWoDz6b6DXwcoEt15DXnGSoP2WFp3" min-width="400px" max-width="400px" width="400px" align="right">
   
