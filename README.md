@@ -49,7 +49,6 @@ La aplicación deberá ser responsiva. <br/>
 
 
 <h1> Deploy page <h1>
-   http://appointment-dev.freecluster.eu/crud-citas-poo-mvc/
-   https:/ <br/>
+   http://appointment-dev.freecluster.eu/crud-citas-poo-mvc/ <br/>
 
   
