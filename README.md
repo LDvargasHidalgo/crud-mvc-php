@@ -52,8 +52,10 @@ La aplicación deberá ser responsiva. <br/>
    http://appointment-dev.freecluster.eu/crud-citas-poo-mvc/ <br/>
 
    
-   ![formulario-citas](https://user-images.githubusercontent.com/78703403/160642528-0a84f509-0d45-4b6a-b7f5-f476e9b4f152.png)
    
-   ![Captura de pantalla 2022-03-29 094901](https://user-images.githubusercontent.com/78703403/160642723-5921777a-1e66-4f96-b554-9d512c5306c9.png)
+   ![formulario-citas](https://user-images.githubusercontent.com/78703403/160642528-0a84f509-0d45-4b6a-b7f5-f476e9b4f152.png)
+   ![Captura de pantalla 2022-03-29 112219](https://user-images.githubusercontent.com/78703403/160659384-6785d5af-1057-4e0a-9475-aaeafdceae79.png)
+
+   
 
   
