@@ -21,14 +21,17 @@ public function nuevo(){
 }
 
    public function guardar(){
+      // var_dump($_POST);
       $alm = new appointment();
-      $alm->nombre = $_POST['txtNombre'];
-      $alm->tema = $_POST['txtTema'];
-      $alm->fecha_cita = $_POST['txtFecha'];
-      $alm->hora_cita = $_POST['txtHora'];
+      $alm->id = $_REQUEST['txtID'];
+      $alm->nombre = $_REQUEST['txtNombre'];
+      $alm->tema = $_REQUEST['txtTema'];
+      $alm->fecha_cita = $_REQUEST['txtFecha'];
+      $alm->hora_cita = $_REQUEST['txtHora'];
+
+      $alm->id > 0 ? $this->MODEL->actualizarDatos($alm) : $this->MODEL-> registrar($alm);
 
       //invocar la funcion registrar que recibe de parametro alm
-      $this->MODEL-> registrar($alm);
       header("Location: index.php");
    }
 

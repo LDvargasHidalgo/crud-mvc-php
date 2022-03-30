@@ -45,7 +45,7 @@
                      <a href="?c=eliminar&id=<?php echo $k->id; ?>" class="btn btn-danger">Eliminar</a>
                   </td>
                   <td>
-                     <a href="?c=nuevo&id=<?php echo $k->id; ?>" class="btn btn-warning">Editar</a>
+                     <a href="?c=guardar&id=<?php echo $k->id; ?>" class="btn btn-warning">Editar</a>
                   </td>
                </tr> 
                <?php endforeach?>

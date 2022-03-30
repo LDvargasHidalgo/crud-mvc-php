@@ -29,7 +29,7 @@ class appointment{
 
    public function cargarID($id){
       try{
-         $query ="SELECT* from cita where id=?";
+         $query =("SELECT * FROM cita WHERE id=?");
          $smt = $this->CNX-> prepare($query);
          $smt->execute(array($id));
          return $smt->fetch(PDO::FETCH_OBJ);         

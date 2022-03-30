@@ -1,3 +1,21 @@
+<?php
+
+ 
+$id = $_GET['id'];
+
+var_dump($_GET['id']);
+print_r(array_keys($_GET));
+
+
+
+
+
+
+?>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,20 +36,20 @@
      <h2 class="text-center pb-4">NUEVA CITA</h2>
      <div class="form-group">
         <label for="">Nombre:</label>
-        <input type="hidden" name="txtID" value="<?php echo $alm->id;?>">
-        <input type="text" name="txtNombre"  placeholder="Escribe tu nombre" class="form-control mb-4" value="<?php echo $alm->nombre;?>" required >
+        <input type="hidden" name="txtID" value="">
+        <input type="text" name="txtNombre"  placeholder="Escribe tu nombre" class="form-control mb-4" value="" required >
      </div>
      <div class="form-group">
       <label  for="">Tema:</label>
-      <input type="text"  name="txtTema" placeholder="Cual es tu consulta" class="form-control mb-4" value="<?php echo $alm->tema;?>" required >
+      <input type="text"  name="txtTema" placeholder="Cual es tu consulta" class="form-control mb-4" value="" required >
    </div>
    <div class="form-group">
       <label for="">Fecha:</label>
-      <input type="date" name="txtFecha" class="form-control mb-4" value="<?php echo $alm->fecha_cita;?>" required>
+      <input type="date" name="txtFecha" class="form-control mb-4" value="" required>
    </div>
    <div class="form-group">
       <label for="">Hora:</label>
-      <input type="time" name="txtHora" class="form-control" value="<?php echo $alm->hora_cita;?>" required>
+      <input type="time" name="txtHora" class="form-control" value="" required>
    </div>
    <div class="text-end">
       <button class="btn btn-warning mt-4  ">Ver Citas</button>
