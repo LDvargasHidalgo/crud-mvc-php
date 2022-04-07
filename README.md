@@ -49,7 +49,7 @@ La aplicación deberá ser responsiva. <br/>
 
 
 <h1> Deploy page <h1>
-   http://crud-php-citas.epizy.com/crud-citas-poo-mvc/index.php <br/>
+ http://crud-php-citas.epizy.com/crud-citas-poo-mvc/index.php <br/>
 
    
    
